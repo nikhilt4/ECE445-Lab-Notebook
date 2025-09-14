@@ -1,4 +1,4 @@
-9th September 2025
+**9th September 2025**
 
 Objectives:
 - Discuss sections of the proposal and projectss
