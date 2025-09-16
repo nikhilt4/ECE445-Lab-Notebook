@@ -24,3 +24,5 @@ Hello Notebook!
    - looked through online for components and prices estimate:
 <img width="574" height="349" alt="Screenshot 2025-09-16 at 16 20 25" src="https://github.com/user-attachments/assets/1d28e088-35c1-4e89-ab02-ad1e8892c59d" />
 
+4. Meeting TA 9/16
+   - 
