@@ -18,8 +18,9 @@ Hello Notebook!
   
 3. 3rd meeting: 9/14
    - proposal planning and discussion
+   - drafted proposal
    - finalised high-level block diagram and subsystems as given below:
      <img width="846" height="406" alt="Screenshot 2025-09-14 at 18 11 18" src="https://github.com/user-attachments/assets/b5be6066-7c5a-45f6-a4e4-950ded320607" />
    - looked through online for components and prices estimate:
 <img width="574" height="349" alt="Screenshot 2025-09-16 at 16 20 25" src="https://github.com/user-attachments/assets/1d28e088-35c1-4e89-ab02-ad1e8892c59d" />
-   - drafted proposal
+
