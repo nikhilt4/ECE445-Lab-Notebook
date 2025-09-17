@@ -1,7 +1,7 @@
-**9th September 2025**
+**14th September 2025**
 
 Objectives:
-- Discuss sections of the proposal and projectss
+- Discuss sections of the proposal and project
 - Find parts for our product online (ADC, Electrodes, Micro Controllers)
 - Complete the BLock Diagram
 
@@ -11,3 +11,14 @@ Finished the rough block diagram. Need to complete the Connections of subsystems
 <img width="1224" height="598" alt="image" src="https://github.com/user-attachments/assets/3ea33a29-804d-4a27-a3e8-c1385d3afe07" />
 
 
+
+**17th September 2025**
+
+**Individual Work**
+
+Objectives:
+- Write up the team contract and send to Senny
+- Start on the proposal (Introduction, High level requirements, Ethics and Safety)
+
+Finished the team contract by answering the questions. Sent to Senny and asked him to add some project goals and edit any components he sees fit. Once done, ready for signature and submission
+Organized parts of our proposal document. Some components were already written or completed such as the introduction, block diagram and high-level requirements. Started on the ethics and safety section. Used the IEEE code of Ethics to see how our product aligns with these guidelines and what we can do in the future.
