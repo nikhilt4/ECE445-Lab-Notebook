@@ -25,3 +25,18 @@ Objectives:
 
 Finished the team contract by answering the questions. Sent to Senny and asked him to add some project goals and edit any components he sees fit. Once done, ready for signature and submission
 Organized parts of our proposal document. Some components were already written or completed such as the introduction, block diagram and high-level requirements. Started on the ethics and safety section. Used the IEEE code of Ethics to see how our product aligns with these guidelines and what we can do in the future.
+
+
+
+
+**19th September**
+
+Objectives:
+- Finsih the project proposal
+    - Ethics and Safety, Problem, Solution and Design sections
+    - Visual Representation
+
+We worked on the project proposal and finished the final parts. Used the IEEE and ACM code of ethics to outline ethical guidelines related with our product. Created a rough representation of how our product looks and works. Shown Below:
+
+![Visual Representation](https://github.com/user-attachments/assets/9e5abd0c-8362-4445-8dfd-729d25bd2d5c)
+
