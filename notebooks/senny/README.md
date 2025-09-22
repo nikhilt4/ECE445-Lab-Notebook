@@ -25,4 +25,14 @@ Hello Notebook!
 <img width="574" height="349" alt="Screenshot 2025-09-16 at 16 20 25" src="https://github.com/user-attachments/assets/1d28e088-35c1-4e89-ab02-ad1e8892c59d" />
 
 4. Meeting TA 9/16
-   - 
+   - Work on subsystem requirements, almost same as system requirement, but be more specific with the components
+   - Can use the ADS1229 chip instead since we are still wiring it and its only a chip and not a whole on-board chip.
+   - Work on proposal, seem like we are on the right road.
+  
+5. 4th meeting: 9/19
+   - Prepared Proposal together with Nikhil.
+   - Worked on the overleaf formatting, and design for power, signal acquisition, and alarm systems.
+   - Understand complexities of power system such as battery ratings for enough battery life; battery size; battery safety management and buck converter.
+   - Made more detailed block diagram with components and power ratings for easier power system design
+   <img width="584" height="418" alt="block_diagram" src="https://github.com/user-attachments/assets/5e6cb6be-e4e9-404a-94a1-87239125517a" />
+
