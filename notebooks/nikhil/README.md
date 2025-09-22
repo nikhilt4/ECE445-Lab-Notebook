@@ -40,3 +40,15 @@ We worked on the project proposal and finished the final parts. Used the IEEE an
 
 ![Visual Representation](https://github.com/user-attachments/assets/9e5abd0c-8362-4445-8dfd-729d25bd2d5c)
 
+
+
+
+
+**21th September**
+
+**Individual Work**
+
+Objectives:
+- Prepare for proposal review
+
+Made notes on specific parts of proposal for our review on the 22nd. Used ChatGPT to think of some sample questions I can work on to prepare.
