@@ -52,3 +52,7 @@ Objectives:
 - Prepare for proposal review
 
 Made notes on specific parts of proposal for our review on the 22nd. Used ChatGPT to think of some sample questions I can work on to prepare.
+
+
+**22nd September**
+**Proposal Review**
