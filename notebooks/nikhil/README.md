@@ -58,3 +58,39 @@ Made notes on specific parts of proposal for our review on the 22nd. Used ChatGP
 
 
 **Proposal Review**
+
+
+
+
+**3rd October**
+Objectives:
+- Order Parts
+
+We ordered all our parts.
+
+
+
+
+**6th October**
+Objectives:
+- Refine circuit schematics
+- Build schematics on breadboard for demo
+- Simple coding and intro to nucleo board
+
+We received the parts we ordered on friday such as the buzzers, battery, and nucleo dev board.
+We built circuits for the breadboard demo such as an LDO, analog electrode filter and simple buzzer circuits for our dev board.
+
+
+
+
+
+**12th October**
+**Individual Work**
+Objectives:
+- Build stm32f412rgt6 circuit schematic on KiCad
+
+Built the STM circuit with power, decoupling circuits, NRST reset push button, and fixing connections to and from the ADS1299.
+
+
+
+
