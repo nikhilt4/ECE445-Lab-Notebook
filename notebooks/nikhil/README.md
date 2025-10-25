@@ -93,4 +93,30 @@ Built the STM circuit with power, decoupling circuits, NRST reset push button, a
 
 
 
+**13th October**
+Objectives:
+- Design Document
+
+Finished the design document with Senny. Wrote the Cost, schedule, alarm and controller system sections. 
+Discussed our next steps for the PCB and started research on that for the Second Pass.
+
+
+
+**16th October**
+Objectives:
+- Finish the PCB design for the Second Pass
+
+Finished the PCB for the Second Pass deadline.
+
+
+**17th October**
+**Individual Work**
+Objectives:
+- Visit the machine shop for a discussion on our project assembly.**
+
+Visited the machine shop and spoke to one of the technicians about our project. Discussed the mountin gsystem above our hat for the PCB and battery, electrode bolts, wiring, weight and overall user experience.
+
+
+
+
 
