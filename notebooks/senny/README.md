@@ -54,33 +54,83 @@ Hello Notebook!
    - Me and Nikhil discussed what parts and components we will be buying and put in our first orders for the components that encompasses the allocated $100. 
 <img width="413" height="202" alt="Screenshot 2025-12-11 at 18 58 14" src="https://github.com/user-attachments/assets/6a1cbc8d-abc6-4b92-8a5b-763a8d514b1e" />
 
+9. Breadboard Demo test 10/5
+   - Nikhil and I met up to plan and decide what we'll be doing for the breadboard demo since we have not received our PCB, and our parts. We used some available resistors and the only part we had to show some physical representation of what we have planned to achieve.
+   - We build a simple (low-dropout)LDO converter to show how we plan to get the 3.3V and 5V rails.
+   - Nikhil planned to show how we will be using the buzzer to make the alerts, and how they are low powered.
+  
+13. Breadboard Demo 10/6
+   - Nikhil and I did our breadboard demo as planned. We showed some progress, but nothign significant.
+
 9. PCB Design plan 10/10
    - I figure out the PCB design for the ADS1299(limited free resources for PCB design).
 <img width="1832" height="1204" alt="image" src="https://github.com/user-attachments/assets/1d18dd1d-ecb7-42ae-a587-769e50a9ce11" />
 
-10. Design Document 13/10
+10. Design Document 10/13
    - Nikhil and I met up to finish up our design document and finalise our requirement and verification table.
 
-11. PCB Design 16/10
+11. PCB Design 10/16
    - Nihkil and I spent most of the day designing our PCB at Grainger Engr library. Due to the 10cm*10cm size limit, we planned to put it all in the same PCB.
    - We finished the PCB, ran the test on PCBway and submitted our gerber files to Zhuoer.
    <img width="413" height="276" alt="Screenshot 2025-12-11 at 18 59 53" src="https://github.com/user-attachments/assets/16dd259d-0967-4b4b-9576-beff33e90c7b" />
 
-12. Breadboard Demo test 25/10
-   - Nikhil and I met up to plan and decide what we'll be doing for the breadboard demo since we have not received our PCB, and our parts. We used some available resistors and the only part we had, the buzzer, to show some physical representation of what we have planned to achieve.
-   - We build a simple (low-dropout)LDO converter to show how we plan to get the 3.3V and 5V rails.
-   - Nikhil planned to show how we will be using the buzzer to make the alerts, and how they are low powered.
+12. Breadboard Demo test 10/25
+   - Nikhil and I met up to plan and decide what we'll be doing for the breadboard demo since we have not received our PCB and our parts.
+   - We decided to show some signals as the project heavily depended on the ability to collect accurate noise-filtered signal. We plugged some electrodes and used UART ports to show some real-time signals through MATlab plots.
    
-13. Breadboard Demo 28/10
-   - Nikhil and I did our breadboard demo as planned. We showed some progress, but nothign significant.
+13. Breadboard Demo 10/28
+   - Nikhil and I did our breadboard demo as planned. We showed some progress, but nothign significant. The professor looked disappointed that we still didn't have a solid breadboard or amplified signals.
 
-14. Bill of Material 30/10
+14. Bill of Material 10/30
    - We did the planning for what components we need to buy, and where we are going to buy them. An excel sheet called bill of material, as it was easy to keep track of what we want to get.
 <img width="1430" height="453" alt="Screenshot 2025-12-11 at 19 18 36" src="https://github.com/user-attachments/assets/7b2a6f7a-c44a-49af-aa61-45435270f2d8" />
 
-15. Component order 31/10
+15. Component order 10/31
    - Nihkil put in the order for the material on Digikey, and sent Zhuoer the parts that we planned to get from the ECE shop.
 <img width="402" height="262" alt="Screenshot 2025-12-11 at 19 21 42" src="https://github.com/user-attachments/assets/bd76e713-7a4d-445c-9731-38ec18064ad5" />
+
+16. Individual progress report 11/6
+   - Finished the individual report and submitted just in time. Hell yeah!
+![Image 11-5-25 at 23 59](https://github.com/user-attachments/assets/355c4ee8-60c6-4bb9-97c2-626c4813de6c)
+
+17. Machine Shop 11/14
+   - We met with machine shop and discussed some ideas. They gave ue lead metal pieces to use as electrodes, but it didnt work out
+
+ 18. Cap is ready 11/17
+   - Nikhil and I collected the cap with the OCB box mounted on top of it with electrodes installed for use to use.
+
+19. Arrival of part 11/21
+   - I went over to Nikhil's to collect all the stuff that he has and other parts that will be arriving since he was going out for break, and I can work over the break
+
+20. Fall break 11/22-29
+   - Finished with ADS1299 module soldering
+   - Finished with BMS
+<img width="537" height="708" alt="Screenshot 2025-12-11 at 19 46 09" src="https://github.com/user-attachments/assets/523d8f7d-2100-4eda-8107-f1ff9443e43c" />
+<img width="351" height="340" alt="Screenshot 2025-12-11 at 19 46 29" src="https://github.com/user-attachments/assets/24e962e9-d669-4873-83a9-9ae1871a5e66" />
+
+21. Final work 11/22 - 12/1
+   - Most of the work is now NIkhil's since he has to do the firmware and testing
+   - Finished up with the converters and cleaned up the baords into the cap.
+
+22. Final Demo 12/2
+   - Successfully finished the final demo. The cap worked almost as decently as we expected it too. We had a group of 15 ish spectating, so really nervous, but it worked! clutch!
+
+23. Video 12/4
+   - Did the video for extra credit
+
+24. Pilot Test 12/7
+   - Nikhil and I tested the device with 13 of our friends as the pilot test. The device worked like a charm with some edge cases that we needed to change things around a bit.
+
+25. Presentation 12/9
+   - Nikhil and I presented our project to the professor and the TAs. This time the professor looked more satisfied with the data we have collected, and I believe the presentation went well.
+
+26. Final paper 12/10
+   - We finished our final paper, and submitted it.
+
+27. Last Day 12/11
+   - I checked out our stuff from the lab, and attended the ceremony. Happy to receive honorable mention.
+   - Wrapping up the notebook to submit...
+   - Hell of a class. Hell of a semester. Special thanks to ZZ for being supportive and understanding. 
 
 
 
