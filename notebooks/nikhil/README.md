@@ -107,6 +107,7 @@ Objectives:
 - Finish the PCB design for the Second Pass
 
 Finished the PCB for the Second Pass deadline.
+PCB schematics and image shown in the diagrams seciton.
 
 
 **17th October**
@@ -114,7 +115,59 @@ Finished the PCB for the Second Pass deadline.
 Objectives:
 - Visit the machine shop for a discussion on our project assembly.**
 
-Visited the machine shop and spoke to one of the technicians about our project. Discussed the mountin gsystem above our hat for the PCB and battery, electrode bolts, wiring, weight and overall user experience.
+Visited the machine shop and spoke to one of the technicians about our project. Discussed the mountin gsystem above our hat for the PCB and battery, electrode bolts, wiring, weight and overall user experience. 
+
+**25th October**
+Objectives:
+- Work on the breadboard demo 2
+- Testing of electrode channels using STM Nucleo board ADC
+- Early firmware of STM for understanding digital signal processing, testing GPIO logic of buzzer,etc
+
+Built our breadboard for demo to Professor and TA. Assembled an EEG signal pipeline with electrodes, stm nucleo board and a python script which does FFT and furhter analysis to display signals
+
+**30th October**
+Objectives:
+- Work on ordering parts for the pcb and finalizing our parts excel
+
+Bill of material excel sheet finalized, parts ordered from digikey and other websites.
+
+**2nd November**
+Objectives:
+- Refine pcb for second order
+
+Adjusted our PCB and fixed footprints and other errors for order
+
+**17th November**
+Objectives:
+- Assemble parts on boards
+- Testing for seperate subsystems and other to test
+
+Received our final parts from Digikey to start fabricating, assembling and testing.
+Used our previous PCB boards for smaller subsystems to test and verify signals (controller and ADS1299 electrode sammples)
+
+**28th November**
+Objectives:
+- Finalize PCB assembly
+- Testing firmware and functionality with on board STM chip
+
+Assembled our stm and ads1299 chips on the PCB board and started testing on board firmware without the Nucleo.
+Tested signals and wrote STM firmware for that.
+Refined sample output from the ADS1299
+
+**1st December**
+Objectives:
+- Finalize design for demo
+Finalize design, assemly of the cap and full overview for the demo.
+
+**7th December**
+Objectives:
+- User trials and tests
+- Interpretation of results and plots
+
+Testing on other subjects to see drowsiness detection and its accuracy. 
+Data collected from these users was collated, analyzed and plotted using python scripts.
+
+
 
 
 
